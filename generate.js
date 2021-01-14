@@ -5,3 +5,4 @@ function generateCat(){
     div.appendChild(image);
 }
 
+
