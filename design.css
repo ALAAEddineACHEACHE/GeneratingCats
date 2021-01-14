@@ -5,12 +5,11 @@
         text-align: center;
 }
 .flex-box-container{
-    display: flex;
+     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
     border: 1px solid blue;
-  
 }
 .flex-box-container img{
     border: 1px solid green;
